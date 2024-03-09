@@ -1,7 +1,7 @@
 const Dashboard = () => {
     return (
         <div>
-            Hello There! Its Dashboard!
+            Hello There! Welcome to SnapPay Dashboard!
         </div>    
     )
 }

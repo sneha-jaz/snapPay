@@ -9,7 +9,6 @@ import SendMoney from './pages/SendMoney';
 function App() {
   return (
     <div> 
-{/* className="bg-[#DFE9F3]" */}
       <BrowserRouter>
         <Routes>
           <Route path='signup' element={<Signup/>}></Route> 

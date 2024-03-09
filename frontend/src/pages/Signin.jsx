@@ -6,15 +6,10 @@ import { Heading } from '../components/Heading';
 import { SubHeading } from '../components/SubHeading';
 import { Button } from '../components/Button';
 import { ButtonWarning } from '../components/ButtonWarning';
-// import OnlineBillPay from '../assets/unused/OnlineBillPay.mp4'; bg-[#DFE9F3] 
 
 const Signin = () => {
 return (
     <div className="flex lg:flex-row h-screen flex-1 flex-col justify-center items-center">
-            {/* <video width="80%" height="80%" autoPlay loop muted>
-                <source src={OnlineBillPay} type="video/mp4" />
-                Your browser does not support the video tag.
-            </video> */}
             <div className="lg:w-1/2 h-screen p-4 bg-[#E5EEF3] flex justify-center items-center">
                 <img src={Illustration} alt="Illustration" />
             </div>

@@ -1,7 +1,7 @@
 const SendMoney = () => {
     return (
         <div>
-            SendMoney
+            SendMoney Page
         </div>    
     )
 }
